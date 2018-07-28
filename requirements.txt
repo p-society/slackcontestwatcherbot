@@ -1,0 +1,5 @@
+six==1.11.0
+websocket-client==0.48.0
+slackclient==1.2.1
+requests==2.19.1
+python-dateutil==2.7.3
