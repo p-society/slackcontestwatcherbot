@@ -99,7 +99,7 @@ if __name__ == "__main__":
                 if(ifany):
                     slack_client.api_call(
                         "chat.postMessage",
-                        channel="C5KM2BH38",
+                        channel="CCL4XA7AN",
                         text=response)
             command, event = parse_bot_commands(slack_client.rtm_read())
             if command:
